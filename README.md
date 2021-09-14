@@ -1,3 +1,8 @@
+# Travel Companion Application
+
+![Travel Advisor](https://github.com/rahil-1407/Travel-Companion-Application/blob/master/public/image.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
